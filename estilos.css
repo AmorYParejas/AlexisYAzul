@@ -56,11 +56,11 @@ section{
 }
 
 #imgUno{
-    background-image: url('img/Fondo1.jpeg');
+    background-image: url('../img/Fondo1.jpeg');
 }
 
 #imgDos{
-    background-image: url('img/Fondo2.jpeg');
+    background-image: url('AlexisYAzul/img/Fondo2.jpeg');
 }
 
 #imgTres{
