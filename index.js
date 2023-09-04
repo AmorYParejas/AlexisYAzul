@@ -1,5 +1,5 @@
-let imagenesUno = ["../img/Fondo1.jpeg", "../img/Fondo4.jpeg"];
-let imagenesDos = ["../img/Fondo2.jpeg", "../img/Fondo5.jpeg"];
+let imagenesUno = ["img/Fondo1.jpeg", "img/Fondo4.jpeg"];
+let imagenesDos = ["img/Fondo2.jpeg", "img/Fondo5.jpeg"];
 let contImgUno = 0;
 let contImgDos = 0;
 
